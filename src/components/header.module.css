@@ -7,7 +7,7 @@ header {
   display: flex;
   justify-content: space-between;
   width: 64px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin: 20px;
   flex-grow:1;
 }
@@ -15,16 +15,19 @@ header {
 .siteNav {
     display:flex;
     justify-content: flex-end;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: 20px;
     flex-grow:8;
 }
 
 .siteLinks {
-    color: black;
-    margin: 0 0 0.5rem;
+    color:#4E4E4E;
+    margin: 0 0 0 1rem;
     padding: 0.25rem;
     text-decoration:none;
+    font-family: 'Open Sans';    ;
+    font-weight: 500;
+    /* border:1px solid green; */
 }
 
 img {

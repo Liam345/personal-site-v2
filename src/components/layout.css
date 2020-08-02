@@ -1,4 +1,13 @@
-html {
+body {
+  width:960px;
+  margin:0 auto;
+  border: 1px solid blue;
+}
+
+
+
+
+/* html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -208,6 +217,8 @@ body {
   -ms-font-feature-settings: "kern", "liga", "clig", "calt";
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
+  width: 960px;
+  text-align: center;
 }
 img {
   max-width: 100%;
@@ -619,4 +630,4 @@ pre tt:after {
   html {
     font-size: 100%;
   }
-}
+} */

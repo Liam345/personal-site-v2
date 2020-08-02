@@ -1,0 +1,32 @@
+header {
+    display:flex;
+
+}
+
+.socials {
+  display: flex;
+  justify-content: space-between;
+  width: 64px;
+  border: 1px solid red;
+  margin: 20px;
+  flex-grow:1;
+}
+
+.siteNav {
+    display:flex;
+    justify-content: flex-end;
+    border: 1px solid red;
+    margin: 20px;
+    flex-grow:8;
+}
+
+.siteLinks {
+    color: black;
+    margin: 0 0 0.5rem;
+    padding: 0.25rem;
+    text-decoration:none;
+}
+
+img {
+  height: 24px;
+}
